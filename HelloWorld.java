@@ -1,0 +1,4 @@
+class
+object
+method
+println

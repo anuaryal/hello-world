@@ -1,3 +1,3 @@
+Date:Jan 31, 2022
 # hello-world
-First project in GIT
-My name is ABC. Iam very excited to be a part of this boot camp and learn about GIT.
+I added date to the file and deleted all the other information expcept the hello world line
